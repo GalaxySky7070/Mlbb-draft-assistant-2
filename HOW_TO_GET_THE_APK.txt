@@ -1,0 +1,6 @@
+1. Make a free account at github.com and create a new repository (any name).
+2. Upload ALL files from this folder to it (Add file > Upload files; drag the contents, including the hidden .github folder).
+3. Open the repository's "Actions" tab. The "Build APK" run starts by itself (about 5 min). If it asks, enable Actions.
+4. When it shows a green tick, open the run and download "MlbbDraft-apk" at the bottom. Unzip it: app-debug.apk.
+5. Install the APK on your phone (allow "install unknown apps"), open it, tap Allow overlay, then Start assistant.
+If the run shows a red cross, copy the error text and send it to me.
