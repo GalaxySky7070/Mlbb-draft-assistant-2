@@ -12,8 +12,16 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: 8.7
-      - run: gradle assembleDebug --no-daemon
+      - name: Build
+        run: |
+          for z in *.zip; do
+            if [ -f "$z" ]; then unzip -oq "$z" -d proj; fi
+          done
+          S=$(find . -name settings.gradle.kts -not -path "./.git/*" | head -1)
+          echo "Found: $S"
+          cd "$(dirname "$S")"
+          gradle assembleDebug --no-daemon
       - uses: actions/upload-artifact@v4
         with:
           name: MlbbDraft-apk
-          path: app/build/outputs/apk/debug/app-debug.apk
+          path: "**/app-debug.apk"
