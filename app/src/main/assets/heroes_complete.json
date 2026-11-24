@@ -1,0 +1,8811 @@
+{
+  "source": "mlbb.io/en/heroes (user screenshots, 2026-11-23)",
+  "count": 133,
+  "heroes": [
+    {
+      "name": "Aamon",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Gloo",
+          "advantage_pct": 4.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Hayabusa",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Silvanna",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Masha",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "aamon",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Gloo",
+          "win_rate_pct": 51.4,
+          "trend": null
+        },
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": null
+        },
+        {
+          "hero": "Hayabusa",
+          "win_rate_pct": 48.2,
+          "trend": null
+        },
+        {
+          "hero": "Silvanna",
+          "win_rate_pct": 51.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Masha",
+          "win_rate_pct": 58.5,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Masha",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Silvanna",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Zhuxin",
+          "works": "epic"
+        },
+        {
+          "hero": "Joy",
+          "works": "epic"
+        },
+        {
+          "hero": "Lolita",
+          "works": "epic"
+        },
+        {
+          "hero": "Gloo",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice"
+      ],
+      "strong_against": [
+        {
+          "hero": "Cici",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Claude",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hilda",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bruno",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Xavier",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 2.8,
+        "win_rate_pct": 50.0,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Akai",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Marcel",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kaja",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "akai",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Marcel",
+          "win_rate_pct": 57.2,
+          "trend": "rising"
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": "fading"
+        },
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": "fading"
+        },
+        {
+          "hero": "Kaja",
+          "win_rate_pct": 49.6,
+          "trend": "fading"
+        },
+        {
+          "hero": "Cyclops",
+          "win_rate_pct": 52.0,
+          "trend": "rising"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Faramis",
+          "works": "epic"
+        },
+        {
+          "hero": "Baxia",
+          "works": "epic"
+        },
+        {
+          "hero": "Marcel",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Xavier",
+          "works": "epic"
+        },
+        {
+          "hero": "Esmeralda",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Cyclops",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Kaja",
+          "works": "epic"
+        },
+        {
+          "hero": "Hanabi",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Nana",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Harith",
+          "advantage_pct": 0.7,
+          "strength": "slight"
+        },
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 0.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Beatrix",
+          "advantage_pct": 0.1,
+          "strength": "slight"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 1.1,
+        "win_rate_pct": 50.3,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Aldous",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Obsidia",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Eudora",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "aldous",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": "fading"
+        },
+        {
+          "hero": "Karina",
+          "win_rate_pct": 49.4,
+          "trend": null
+        },
+        {
+          "hero": "Cyclops",
+          "win_rate_pct": 52.0,
+          "trend": "rising"
+        },
+        {
+          "hero": "Harith",
+          "win_rate_pct": 47.7,
+          "trend": null
+        },
+        {
+          "hero": "Angela",
+          "win_rate_pct": 50.0,
+          "trend": "rising"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Diggie",
+          "works": "epic"
+        },
+        {
+          "hero": "Zhuxin",
+          "works": "epic"
+        },
+        {
+          "hero": "Karina",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Cyclops",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Marcel",
+          "works": "epic"
+        },
+        {
+          "hero": "Obsidia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Esmeralda",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Uranus",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Gatotkaca",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Xavier",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Belerick",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.7,
+        "win_rate_pct": 53.8,
+        "tier": "A"
+      }
+    },
+    {
+      "name": "Alice",
+      "roles": [
+        "Tank",
+        "Mage"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Angela",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 4.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "alice",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Angela",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Floryn",
+          "win_rate_pct": 54.0,
+          "trend": null
+        },
+        {
+          "hero": "Karrie",
+          "win_rate_pct": 49.0,
+          "trend": null
+        },
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": null
+        },
+        {
+          "hero": "Valir",
+          "win_rate_pct": 53.8,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Karrie",
+          "works": "epic"
+        },
+        {
+          "hero": "Yve",
+          "works": "epic"
+        },
+        {
+          "hero": "Angela",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Floryn",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Estes",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Valir",
+          "works": "epic"
+        },
+        {
+          "hero": "Luo Yi",
+          "works": "epic"
+        },
+        {
+          "hero": "Diggie",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Edith",
+          "works": "epic"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice"
+      ],
+      "strong_against": [
+        {
+          "hero": "Chip",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Barats",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Akai",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 14.1,
+        "win_rate_pct": 50.1,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Alpha",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "alpha",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Benedetta",
+          "win_rate_pct": 51.9,
+          "trend": "rising"
+        },
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Valir",
+          "win_rate_pct": 53.7,
+          "trend": null
+        },
+        {
+          "hero": "Wanwan",
+          "win_rate_pct": 47.3,
+          "trend": null
+        },
+        {
+          "hero": "Lylia",
+          "win_rate_pct": 48.9,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Yve",
+          "works": "epic"
+        },
+        {
+          "hero": "Mathilda",
+          "works": "epic"
+        },
+        {
+          "hero": "X.Borg",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Wanwan",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Diggie",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Benedetta",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Hilda",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Johnson",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Terizla",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Odette",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.7,
+        "win_rate_pct": 49.0,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Alucard",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Barats",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Thamuz",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "alucard",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Fredrinn",
+          "win_rate_pct": 51.4,
+          "trend": "rising"
+        },
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": null
+        },
+        {
+          "hero": "Khufra",
+          "win_rate_pct": 54.9,
+          "trend": null
+        },
+        {
+          "hero": "Barats",
+          "win_rate_pct": 51.6,
+          "trend": "fading"
+        },
+        {
+          "hero": "Thamuz",
+          "win_rate_pct": 48.9,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Fredrinn",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Thamuz",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Barats",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Lunox",
+          "works": "epic"
+        },
+        {
+          "hero": "Wanwan",
+          "works": "epic"
+        },
+        {
+          "hero": "Minsitthar",
+          "works": "epic"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lancelot",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.3,
+        "win_rate_pct": 49.4,
+        "tier": "C"
+      }
+    },
+    {
+      "name": "Angela",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Franco",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Zilong",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Silvanna",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "angela",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": null
+        },
+        {
+          "hero": "Franco",
+          "win_rate_pct": 41.8,
+          "trend": null
+        },
+        {
+          "hero": "Silvanna",
+          "win_rate_pct": 51.5,
+          "trend": null
+        },
+        {
+          "hero": "Edith",
+          "win_rate_pct": 53.5,
+          "trend": "rising"
+        },
+        {
+          "hero": "Zilong",
+          "win_rate_pct": 46.4,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Beatrix",
+          "works": "epic"
+        },
+        {
+          "hero": "Baxia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Zilong",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Estes",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Yin",
+          "works": "epic"
+        },
+        {
+          "hero": "Julian",
+          "works": "epic"
+        },
+        {
+          "hero": "Lolita",
+          "works": "epic"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice"
+      ],
+      "strong_against": [
+        {
+          "hero": "Marcel",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Faramis",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lancelot",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Xavier",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 13.2,
+        "win_rate_pct": 50.0,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Argus",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Barats",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Uranus",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Terizla",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "argus",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Barats",
+          "win_rate_pct": 51.6,
+          "trend": null
+        },
+        {
+          "hero": "Uranus",
+          "win_rate_pct": 49.5,
+          "trend": null
+        },
+        {
+          "hero": "Terizla",
+          "win_rate_pct": 50.7,
+          "trend": "fading"
+        },
+        {
+          "hero": "Ruby",
+          "win_rate_pct": 49.2,
+          "trend": "fading"
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Lolita",
+          "works": "epic"
+        },
+        {
+          "hero": "Terizla",
+          "works": "epic"
+        },
+        {
+          "hero": "Phoveus",
+          "works": "epic"
+        },
+        {
+          "hero": "Barats",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Valentina",
+          "works": "epic"
+        },
+        {
+          "hero": "Faramis",
+          "works": "epic"
+        },
+        {
+          "hero": "Uranus",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Baxia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Fredrinn",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Ruby",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Karrie",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Dyrroth",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lunox",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Arlott",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 1.1,
+        "win_rate_pct": 57.1,
+        "tier": "A"
+      }
+    },
+    {
+      "name": "Arlott",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Zhask",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Argus",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Jawhead",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lukas",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "arlott",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lukas",
+          "win_rate_pct": 50.8,
+          "trend": "rising"
+        },
+        {
+          "hero": "Chip",
+          "win_rate_pct": 47.8,
+          "trend": "fading"
+        },
+        {
+          "hero": "Argus",
+          "win_rate_pct": 57.1,
+          "trend": null
+        },
+        {
+          "hero": "Jawhead",
+          "win_rate_pct": 47.9,
+          "trend": "rising"
+        },
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Phoveus",
+          "works": "epic"
+        },
+        {
+          "hero": "Gloo",
+          "works": "epic"
+        },
+        {
+          "hero": "Jawhead",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Chip",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Johnson",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Alice",
+          "works": "epic"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natan",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        },
+        {
+          "hero": "Cici",
+          "advantage_pct": 0.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 0.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Ruby",
+          "advantage_pct": 0.2,
+          "strength": "slight"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.8,
+        "win_rate_pct": 47.7,
+        "tier": "D"
+      }
+    },
+    {
+      "name": "Atlas",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Marcel",
+          "advantage_pct": 5.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lancelot",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ling",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "atlas",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Marcel",
+          "win_rate_pct": 57.3,
+          "trend": "rising"
+        },
+        {
+          "hero": "Wanwan",
+          "win_rate_pct": 47.4,
+          "trend": "rising"
+        },
+        {
+          "hero": "Ling",
+          "win_rate_pct": 52.4,
+          "trend": "rising"
+        },
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": null
+        },
+        {
+          "hero": "Valentina",
+          "win_rate_pct": 44.4,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Chip",
+          "works": "epic"
+        },
+        {
+          "hero": "Wanwan",
+          "works": "epic"
+        },
+        {
+          "hero": "Marcel",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Alice",
+          "works": "epic"
+        },
+        {
+          "hero": "Hirara",
+          "works": "epic"
+        },
+        {
+          "hero": "Yve",
+          "works": "epic"
+        },
+        {
+          "hero": "Ling",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Natalia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Lancelot",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Eudora",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Layla",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bane",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 8.3,
+        "win_rate_pct": 50.0,
+        "tier": "A"
+      }
+    },
+    {
+      "name": "Aulus",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "aulus",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": "fading"
+        },
+        {
+          "hero": "Floryn",
+          "win_rate_pct": 54.0,
+          "trend": null
+        },
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": null
+        },
+        {
+          "hero": "Angela",
+          "win_rate_pct": 50.0,
+          "trend": "rising"
+        },
+        {
+          "hero": "Natan",
+          "win_rate_pct": 51.3,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Chip",
+          "works": "epic"
+        },
+        {
+          "hero": "Valentina",
+          "works": "epic"
+        },
+        {
+          "hero": "Leomord",
+          "works": "epic"
+        },
+        {
+          "hero": "Marcel",
+          "works": "epic"
+        },
+        {
+          "hero": "Khufra",
+          "works": "epic"
+        },
+        {
+          "hero": "Alice",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Floryn",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Estes",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Angela",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Natan",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Eudora",
+          "advantage_pct": 0.7,
+          "strength": "slight"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 13.8,
+        "win_rate_pct": 52.9,
+        "tier": "A"
+      }
+    },
+    {
+      "name": "Aurora",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Yin",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Joy",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hirara",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "aurora",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Benedetta",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Yin",
+          "win_rate_pct": 49.8,
+          "trend": null
+        },
+        {
+          "hero": "Belerick",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Gatotkaca",
+          "win_rate_pct": 45.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Hirara",
+          "win_rate_pct": 50.0,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Valentina",
+          "works": "epic"
+        },
+        {
+          "hero": "Yve",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Luo Yi",
+          "works": "epic"
+        },
+        {
+          "hero": "Hanzo",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 7.0,
+          "strength": "decisive"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.4,
+        "win_rate_pct": 48.8,
+        "tier": "C"
+      }
+    },
+    {
+      "name": "Badang",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "roam",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Karina",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "badang",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Balmond",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Cici",
+          "advantage_pct": 4.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "balmond",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Bane",
+      "roles": [
+        "Fighter",
+        "Mage"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 4.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Atlas",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Novaria",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "bane",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Barats",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 5.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Gord",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "barats",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Baxia",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "jungle",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 5.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Luo Yi",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Granger",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "baxia",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Beatrix",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chou",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "beatrix",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Belerick",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Lesley",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aldous",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cici",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Xavier",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "belerick",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Benedetta",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Obsidia",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zilong",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Franco",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "benedetta",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Brody",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Barats",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Masha",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "brody",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Bruno",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 4.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 3.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aamon",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "bruno",
+      "counter_data": "fetched"
+    },
+    {
+      "name": "Carmilla",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Valentina",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "carmilla",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Valentina",
+          "win_rate_pct": 44.3,
+          "trend": "rising"
+        },
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Benedetta",
+          "win_rate_pct": 52.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Xavier",
+          "win_rate_pct": 53.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Lesley",
+          "win_rate_pct": 48.5,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Ling",
+          "works": "epic"
+        },
+        {
+          "hero": "Cecilion",
+          "works": "epic"
+        },
+        {
+          "hero": "Selena",
+          "works": "epic"
+        },
+        {
+          "hero": "Fanny",
+          "works": "epic"
+        },
+        {
+          "hero": "Valentina",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Benedetta",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Natalia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Lesley",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ]
+    },
+    {
+      "name": "Cecilion",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hayabusa",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Yin",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "cecilion",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Ixia",
+          "win_rate_pct": 50.3,
+          "trend": null
+        },
+        {
+          "hero": "Hanzo",
+          "win_rate_pct": 49.9,
+          "trend": null
+        },
+        {
+          "hero": "Helcurt",
+          "win_rate_pct": 48.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Hayabusa",
+          "win_rate_pct": 48.2,
+          "trend": null
+        },
+        {
+          "hero": "Natalia",
+          "win_rate_pct": 51.4,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Natalia",
+          "works": "epic"
+        },
+        {
+          "hero": "Lunox",
+          "works": "epic"
+        },
+        {
+          "hero": "Hirara",
+          "works": "epic"
+        },
+        {
+          "hero": "Ling",
+          "works": "epic"
+        },
+        {
+          "hero": "Yin",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Hanzo",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Helcurt",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Ixia",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice"
+      ],
+      "strong_against": [],
+      "meta": {
+        "ban_rate_pct": 0.2,
+        "win_rate_pct": 50.6,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Chang'e",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 4.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Claude",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "change",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Gloo",
+          "win_rate_pct": 51.4,
+          "trend": null
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": null
+        },
+        {
+          "hero": "Claude",
+          "win_rate_pct": 48.9,
+          "trend": "fading"
+        },
+        {
+          "hero": "Zhuxin",
+          "win_rate_pct": 49.0,
+          "trend": "rising"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Joy",
+          "works": "epic"
+        },
+        {
+          "hero": "Mathilda",
+          "works": "epic"
+        },
+        {
+          "hero": "Harith",
+          "works": "epic"
+        },
+        {
+          "hero": "Lolita",
+          "works": "epic"
+        },
+        {
+          "hero": "Baxia",
+          "works": "epic"
+        },
+        {
+          "hero": "Gloo",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Esmeralda",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice"
+      ],
+      "strong_against": [
+        {
+          "hero": "Diggie",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.3,
+        "win_rate_pct": 48.2,
+        "tier": "C"
+      }
+    },
+    {
+      "name": "Chip",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Carmilla",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Faramis",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Martis",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "chip",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": "rising"
+        },
+        {
+          "hero": "Carmilla",
+          "win_rate_pct": 52.9,
+          "trend": "fading"
+        },
+        {
+          "hero": "Odette",
+          "win_rate_pct": 49.9,
+          "trend": "fading"
+        },
+        {
+          "hero": "Luo Yi",
+          "win_rate_pct": 46.9,
+          "trend": null
+        },
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Faramis",
+          "works": "epic"
+        },
+        {
+          "hero": "Valentina",
+          "works": "epic"
+        },
+        {
+          "hero": "Fredrinn",
+          "works": "epic"
+        },
+        {
+          "hero": "Ruby",
+          "works": "epic"
+        },
+        {
+          "hero": "Joy",
+          "works": "epic"
+        },
+        {
+          "hero": "Alice",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Carmilla",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Martis",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Alpha",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Zhask",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Zilong",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Selena",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gusion",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 0.2,
+        "win_rate_pct": 48.0,
+        "tier": "D"
+      }
+    },
+    {
+      "name": "Chou",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lukas",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Obsidia",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "chou",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Cyclops",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": null
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": null
+        },
+        {
+          "hero": "Lukas",
+          "win_rate_pct": 50.8,
+          "trend": "fading"
+        },
+        {
+          "hero": "Khufra",
+          "win_rate_pct": 54.9,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Harith",
+          "works": "epic"
+        },
+        {
+          "hero": "Marcel",
+          "works": "epic"
+        },
+        {
+          "hero": "Eudora",
+          "works": "epic"
+        },
+        {
+          "hero": "Phoveus",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Esmeralda",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Lukas",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Cyclops",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Beatrix",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lylia",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 0.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 0.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Fanny",
+          "advantage_pct": 0.1,
+          "strength": "slight"
+        }
+      ]
+    },
+    {
+      "name": "Cici",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Aamon",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Zilong",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "cici",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Aamon",
+          "win_rate_pct": 50.2,
+          "trend": null
+        },
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": "fading"
+        },
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Arlott",
+          "win_rate_pct": 47.5,
+          "trend": "rising"
+        },
+        {
+          "hero": "Zilong",
+          "win_rate_pct": 46.4,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Lolita",
+          "works": "epic"
+        },
+        {
+          "hero": "Zhuxin",
+          "works": "epic"
+        },
+        {
+          "hero": "Guinevere",
+          "works": "epic"
+        },
+        {
+          "hero": "Aamon",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Estes",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Diggie",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass",
+        "Dominance Ice"
+      ],
+      "strong_against": [
+        {
+          "hero": "Balmond",
+          "advantage_pct": 4.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Thamuz",
+          "advantage_pct": 4.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Hylos",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lukas",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Belerick",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ]
+    },
+    {
+      "name": "Claude",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Lesley",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Aamon",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "claude",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lesley",
+          "win_rate_pct": 48.5,
+          "trend": null
+        },
+        {
+          "hero": "Aamon",
+          "win_rate_pct": 50.2,
+          "trend": "rising"
+        },
+        {
+          "hero": "Edith",
+          "win_rate_pct": 53.4,
+          "trend": null
+        },
+        {
+          "hero": "Natalia",
+          "win_rate_pct": 51.4,
+          "trend": null
+        },
+        {
+          "hero": "Natan",
+          "win_rate_pct": 51.3,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Diggie",
+          "works": "epic"
+        },
+        {
+          "hero": "Natan",
+          "works": "epic"
+        },
+        {
+          "hero": "Barats",
+          "works": "epic"
+        },
+        {
+          "hero": "Bruno",
+          "works": "epic"
+        },
+        {
+          "hero": "Aamon",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Edith",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Natalia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Cyclops",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Chang'e",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lapu-Lapu",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yu Zhong",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 0.6,
+          "strength": "slight"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 0.2,
+          "strength": "slight"
+        }
+      ]
+    },
+    {
+      "name": "Clint",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Fanny",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Harith",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "clint",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Fanny",
+          "win_rate_pct": 42.9,
+          "trend": null
+        },
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": "rising"
+        },
+        {
+          "hero": "Saber",
+          "win_rate_pct": 51.5,
+          "trend": null
+        },
+        {
+          "hero": "Harith",
+          "win_rate_pct": 47.7,
+          "trend": "rising"
+        },
+        {
+          "hero": "Mathilda",
+          "win_rate_pct": 44.3,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Joy",
+          "works": "epic"
+        },
+        {
+          "hero": "Chip",
+          "works": "epic"
+        },
+        {
+          "hero": "Hanzo",
+          "works": "epic"
+        },
+        {
+          "hero": "Valentina",
+          "works": "epic"
+        },
+        {
+          "hero": "Lancelot",
+          "works": "epic"
+        },
+        {
+          "hero": "Fanny",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Alice",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Gloo",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Mathilda",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Khufra",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Karina",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 0.7,
+          "strength": "slight"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 0.1,
+          "strength": "slight"
+        }
+      ]
+    },
+    {
+      "name": "Cyclops",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 9.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 4.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alucard",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minotaur",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "cyclops",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": "fading"
+        },
+        {
+          "hero": "Ixia",
+          "win_rate_pct": 50.3,
+          "trend": null
+        },
+        {
+          "hero": "Minotaur",
+          "win_rate_pct": 54.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Yve",
+          "win_rate_pct": 51.9,
+          "trend": "rising"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Faramis",
+          "works": "epic"
+        },
+        {
+          "hero": "Alucard",
+          "works": "epic"
+        },
+        {
+          "hero": "Ixia",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Minotaur",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Estes",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Lolita",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice",
+        "Tough Boots"
+      ],
+      "strong_against": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 5.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Joy",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ling",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        }
+      ]
+    },
+    {
+      "name": "Diggie",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chang'e",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "diggie",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Sun",
+          "win_rate_pct": 54.1,
+          "trend": "rising"
+        },
+        {
+          "hero": "Franco",
+          "win_rate_pct": 41.8,
+          "trend": "rising"
+        },
+        {
+          "hero": "Chang'e",
+          "win_rate_pct": 48.2,
+          "trend": "rising"
+        },
+        {
+          "hero": "Layla",
+          "win_rate_pct": 49.5,
+          "trend": null
+        },
+        {
+          "hero": "Yin",
+          "win_rate_pct": 49.8,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Valentina",
+          "works": "epic"
+        },
+        {
+          "hero": "Fanny",
+          "works": "epic"
+        },
+        {
+          "hero": "Lapu-Lapu",
+          "works": "epic"
+        },
+        {
+          "hero": "Marcel",
+          "works": "epic"
+        },
+        {
+          "hero": "Suyou",
+          "works": "epic"
+        },
+        {
+          "hero": "Chang'e",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Hanzo",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Granger",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Novaria",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Sun",
+          "works": "mythic_plus"
+        }
+      ],
+      "counter_items": [
+        "Athena's Shield",
+        "Dominance Ice"
+      ],
+      "strong_against": [
+        {
+          "hero": "Alpha",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Guinevere",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        }
+      ]
+    },
+    {
+      "name": "Dyrroth",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Argus",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Masha",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Thamuz",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "dyrroth",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Johnson",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Nana",
+          "win_rate_pct": 47.1,
+          "trend": null
+        },
+        {
+          "hero": "Gatotkaca",
+          "win_rate_pct": 45.5,
+          "trend": "rising"
+        },
+        {
+          "hero": "Silvanna",
+          "win_rate_pct": 51.5,
+          "trend": null
+        },
+        {
+          "hero": "Argus",
+          "win_rate_pct": 57.1,
+          "trend": null
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Argus",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Masha",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Thamuz",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Benedetta",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Martis",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Mathilda",
+          "works": "epic"
+        },
+        {
+          "hero": "Luo Yi",
+          "works": "epic"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Uranus",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 1.7,
+        "win_rate_pct": 49.4,
+        "tier": "B"
+      }
+    },
+    {
+      "name": "Edith",
+      "roles": [
+        "Tank",
+        "Marksman"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 5.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Layla",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Beatrix",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "edith",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": "rising"
+        },
+        {
+          "hero": "Beatrix",
+          "win_rate_pct": 50.3,
+          "trend": "rising"
+        },
+        {
+          "hero": "Baxia",
+          "win_rate_pct": 45.9,
+          "trend": "fading"
+        },
+        {
+          "hero": "Karina",
+          "win_rate_pct": 49.4,
+          "trend": "fading"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Esmeralda",
+      "roles": [
+        "Tank",
+        "Mage"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Karrie",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natan",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lunox",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "esmeralda",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Dyrroth",
+          "win_rate_pct": 49.3,
+          "trend": null
+        },
+        {
+          "hero": "Karrie",
+          "win_rate_pct": 49.0,
+          "trend": null
+        },
+        {
+          "hero": "Lunox",
+          "win_rate_pct": 52.0,
+          "trend": "rising"
+        },
+        {
+          "hero": "Natan",
+          "win_rate_pct": 51.3,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Estes",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Ixia",
+          "advantage_pct": 5.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Beatrix",
+          "advantage_pct": 4.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Sora",
+          "advantage_pct": 4.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Luo Yi",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Nolan",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        }
+      ],
+      "synergies": [],
+      "slug": "estes",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Ixia",
+          "win_rate_pct": 50.3,
+          "trend": "fading"
+        },
+        {
+          "hero": "Beatrix",
+          "win_rate_pct": 50.3,
+          "trend": null
+        },
+        {
+          "hero": "Sora",
+          "win_rate_pct": 49.4,
+          "trend": null
+        },
+        {
+          "hero": "Nolan",
+          "win_rate_pct": 50.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Eudora",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Atlas",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Masha",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Barats",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Leomord",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "eudora",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Atlas",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Masha",
+          "win_rate_pct": 58.5,
+          "trend": null
+        },
+        {
+          "hero": "Barats",
+          "win_rate_pct": 51.6,
+          "trend": null
+        },
+        {
+          "hero": "Leomord",
+          "win_rate_pct": 50.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Fanny",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Franco",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Moskov",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bruno",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Badang",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "fanny",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Moskov",
+          "win_rate_pct": 50.4,
+          "trend": null
+        },
+        {
+          "hero": "Bruno",
+          "win_rate_pct": 53.8,
+          "trend": null
+        },
+        {
+          "hero": "Franco",
+          "win_rate_pct": 41.8,
+          "trend": null
+        },
+        {
+          "hero": "Badang",
+          "win_rate_pct": 50.2,
+          "trend": null
+        },
+        {
+          "hero": "Kalea",
+          "win_rate_pct": 50.9,
+          "trend": "fading"
+        }
+      ],
+      "rank_dependent": [
+        {
+          "hero": "Faramis",
+          "works": "epic"
+        },
+        {
+          "hero": "Marcel",
+          "works": "epic"
+        },
+        {
+          "hero": "Chip",
+          "works": "epic"
+        },
+        {
+          "hero": "Khufra",
+          "works": "epic"
+        },
+        {
+          "hero": "Franco",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Badang",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Bruno",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Phoveus",
+          "works": "mythic_plus"
+        },
+        {
+          "hero": "Moskov",
+          "works": "epic"
+        }
+      ],
+      "counter_items": [
+        "Blade Armor",
+        "Antique Cuirass"
+      ],
+      "strong_against": [
+        {
+          "hero": "Granger",
+          "advantage_pct": 3.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Clint",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gord",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "meta": {
+        "ban_rate_pct": 2.1,
+        "win_rate_pct": 42.8,
+        "tier": "D"
+      }
+    },
+    {
+      "name": "Faramis",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lanes": [
+        "mid",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Estes",
+          "advantage_pct": 3.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "faramis",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": "rising"
+        },
+        {
+          "hero": "Angela",
+          "win_rate_pct": 50.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Edith",
+          "win_rate_pct": 53.4,
+          "trend": "rising"
+        },
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": "fading"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Floryn",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Silvanna",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Franco",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yin",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "floryn",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": "rising"
+        },
+        {
+          "hero": "Yin",
+          "win_rate_pct": 49.8,
+          "trend": null
+        },
+        {
+          "hero": "Eudora",
+          "win_rate_pct": 50.1,
+          "trend": null
+        },
+        {
+          "hero": "Ixia",
+          "win_rate_pct": 50.3,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Franco",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Johnson",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "franco",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Hanzo",
+          "win_rate_pct": 49.9,
+          "trend": "fading"
+        },
+        {
+          "hero": "Sun",
+          "win_rate_pct": 54.1,
+          "trend": "fading"
+        },
+        {
+          "hero": "Johnson",
+          "win_rate_pct": 50.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Atlas",
+          "win_rate_pct": 50.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Fredrinn",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Valir",
+          "advantage_pct": 4.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gord",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karrie",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "fredrinn",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Valir",
+          "win_rate_pct": 53.8,
+          "trend": "fading"
+        },
+        {
+          "hero": "Gord",
+          "win_rate_pct": 52.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Ixia",
+          "win_rate_pct": 50.3,
+          "trend": "rising"
+        },
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Freya",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 5.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 4.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Franco",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "freya",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Minsitthar",
+          "win_rate_pct": 52.6,
+          "trend": null
+        },
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Baxia",
+          "win_rate_pct": 45.9,
+          "trend": null
+        },
+        {
+          "hero": "Edith",
+          "win_rate_pct": 53.4,
+          "trend": null
+        },
+        {
+          "hero": "Alpha",
+          "win_rate_pct": 49.0,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Gatotkaca",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "lanes": [
+        "roam",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aldous",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alpha",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "gatotkaca",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": "fading"
+        },
+        {
+          "hero": "Lesley",
+          "win_rate_pct": 48.5,
+          "trend": null
+        },
+        {
+          "hero": "Uranus",
+          "win_rate_pct": 49.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Mathilda",
+          "win_rate_pct": 44.3,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Gloo",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Faramis",
+          "advantage_pct": 5.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Natan",
+          "advantage_pct": 4.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Moskov",
+          "advantage_pct": 4.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Vexana",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "gloo",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Faramis",
+          "win_rate_pct": 50.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Natan",
+          "win_rate_pct": 51.3,
+          "trend": null
+        },
+        {
+          "hero": "Moskov",
+          "win_rate_pct": 50.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Lunox",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Gord",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ling",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fanny",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "gord",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Natalia",
+          "win_rate_pct": 51.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Ling",
+          "win_rate_pct": 52.3,
+          "trend": "rising"
+        },
+        {
+          "hero": "Helcurt",
+          "win_rate_pct": 48.0,
+          "trend": null
+        },
+        {
+          "hero": "Benedetta",
+          "win_rate_pct": 52.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Granger",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Fanny",
+          "advantage_pct": 3.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Hilda",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hayabusa",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "granger",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Fanny",
+          "win_rate_pct": 42.9,
+          "trend": null
+        },
+        {
+          "hero": "Hilda",
+          "win_rate_pct": 51.3,
+          "trend": null
+        },
+        {
+          "hero": "Akai",
+          "win_rate_pct": 50.2,
+          "trend": "fading"
+        },
+        {
+          "hero": "Uranus",
+          "win_rate_pct": 49.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Grock",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kaja",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "grock",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": "fading"
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": "fading"
+        },
+        {
+          "hero": "Kaja",
+          "win_rate_pct": 49.6,
+          "trend": null
+        },
+        {
+          "hero": "Marcel",
+          "win_rate_pct": 57.2,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Guinevere",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Argus",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hanabi",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "guinevere",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Wanwan",
+          "win_rate_pct": 47.5,
+          "trend": null
+        },
+        {
+          "hero": "Diggie",
+          "win_rate_pct": 54.8,
+          "trend": "fading"
+        },
+        {
+          "hero": "Argus",
+          "win_rate_pct": 57.1,
+          "trend": null
+        },
+        {
+          "hero": "Joy",
+          "win_rate_pct": 48.7,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Gusion",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle",
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Roger",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "gusion",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Roger",
+          "win_rate_pct": 48.3,
+          "trend": null
+        },
+        {
+          "hero": "Khufra",
+          "win_rate_pct": 54.9,
+          "trend": null
+        },
+        {
+          "hero": "Marcel",
+          "win_rate_pct": 57.2,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Hanabi",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Beatrix",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Joy",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "hanabi",
+      "counter_data": "fetched",
+      "best_counters_listed": [],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Hanzo",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 4.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Ling",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hirara",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "hanzo",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Natalia",
+          "win_rate_pct": 51.4,
+          "trend": null
+        },
+        {
+          "hero": "Ling",
+          "win_rate_pct": 52.3,
+          "trend": null
+        },
+        {
+          "hero": "Helcurt",
+          "win_rate_pct": 48.0,
+          "trend": null
+        },
+        {
+          "hero": "Sun",
+          "win_rate_pct": 54.1,
+          "trend": "rising"
+        },
+        {
+          "hero": "Aldous",
+          "win_rate_pct": 53.8,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Harith",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 5.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alucard",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Odette",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "harith",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": null
+        },
+        {
+          "hero": "Edith",
+          "win_rate_pct": 53.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Minsitthar",
+          "win_rate_pct": 52.6,
+          "trend": "fading"
+        },
+        {
+          "hero": "Martis",
+          "win_rate_pct": 47.2,
+          "trend": "rising"
+        },
+        {
+          "hero": "Alucard",
+          "win_rate_pct": 49.3,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Harley",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "lanes": [
+        "jungle",
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 4.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Roger",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "harley",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": "fading"
+        },
+        {
+          "hero": "Sun",
+          "win_rate_pct": 54.1,
+          "trend": "rising"
+        },
+        {
+          "hero": "Chip",
+          "win_rate_pct": 47.8,
+          "trend": "rising"
+        },
+        {
+          "hero": "Gloo",
+          "win_rate_pct": 51.4,
+          "trend": "fading"
+        },
+        {
+          "hero": "Roger",
+          "win_rate_pct": 48.3,
+          "trend": "rising"
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Hayabusa",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhask",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hirara",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "hayabusa",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/hayabusa/counter"
+    },
+    {
+      "name": "Helcurt",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Karina",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Argus",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Obsidia",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hilda",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aldous",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "helcurt",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/helcurt/counter"
+    },
+    {
+      "name": "Hilda",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lanes": [
+        "roam",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Alpha",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aamon",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "hilda",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/hilda/counter"
+    },
+    {
+      "name": "Hirara",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        },
+        {
+          "hero": "Fanny",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "hirara",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/hirara/counter"
+    },
+    {
+      "name": "Hylos",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cici",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "hylos",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/hylos/counter"
+    },
+    {
+      "name": "Irithel",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Brody",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Eudora",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Harith",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "irithel",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/irithel/counter"
+    },
+    {
+      "name": "Ixia",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 4.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kadita",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Atlas",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "ixia",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/ixia/counter"
+    },
+    {
+      "name": "Jawhead",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Sun",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "jawhead",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/jawhead/counter"
+    },
+    {
+      "name": "Johnson",
+      "roles": [
+        "Tank",
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Gloo",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alpha",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kadita",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "johnson",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/johnson/counter"
+    },
+    {
+      "name": "Joy",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Moskov",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bruno",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "joy",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/joy/counter"
+    },
+    {
+      "name": "Julian",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Guinevere",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Thamuz",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Barats",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "julian",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/julian/counter"
+    },
+    {
+      "name": "Kadita",
+      "roles": [
+        "Mage",
+        "Assassin"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Marcel",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "kadita",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/kadita/counter"
+    },
+    {
+      "name": "Kagura",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Harith",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Valentina",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "kagura",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/kagura/counter"
+    },
+    {
+      "name": "Kaja",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Odette",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lunox",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhask",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "kaja",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/kaja/counter"
+    },
+    {
+      "name": "Kalea",
+      "roles": [
+        "Support",
+        "Fighter"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Hanabi",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Miya",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "kalea",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/kalea/counter"
+    },
+    {
+      "name": "Karina",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Granger",
+          "advantage_pct": 5.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Brody",
+          "advantage_pct": 4.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Clint",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lunox",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "karina",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/karina/counter"
+    },
+    {
+      "name": "Karrie",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Argus",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "karrie",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/karrie/counter"
+    },
+    {
+      "name": "Khaleed",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "roam",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "khaleed",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/khaleed/counter"
+    },
+    {
+      "name": "Khufra",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minotaur",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bane",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "khufra",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/khufra/counter"
+    },
+    {
+      "name": "Kimmy",
+      "roles": [
+        "Marksman",
+        "Mage"
+      ],
+      "lanes": [
+        "mid",
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fanny",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kaja",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "kimmy",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/kimmy/counter"
+    },
+    {
+      "name": "Lancelot",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Angela",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alucard",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cici",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "lancelot",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lancelot/counter"
+    },
+    {
+      "name": "Lapu-Lapu",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Harith",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Claude",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aldous",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "lapu-lapu",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lapu-lapu/counter"
+    },
+    {
+      "name": "Layla",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Atlas",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Johnson",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hanzo",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "layla",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/layla/counter"
+    },
+    {
+      "name": "Leomord",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Valir",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Karrie",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Melissa",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "leomord",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/leomord/counter"
+    },
+    {
+      "name": "Lesley",
+      "roles": [
+        "Marksman",
+        "Assassin"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Gloo",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Masha",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "lesley",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lesley/counter"
+    },
+    {
+      "name": "Ling",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 6.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lukas",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "ling",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/ling/counter"
+    },
+    {
+      "name": "Lolita",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Aurora",
+          "advantage_pct": 7.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 6.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 5.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 5.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Kadita",
+          "advantage_pct": 4.0,
+          "strength": "decisive"
+        }
+      ],
+      "synergies": [],
+      "slug": "lolita",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lolita/counter"
+    },
+    {
+      "name": "Lukas",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Balmond",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Valentina",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "lukas",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lukas/counter"
+    },
+    {
+      "name": "Lunox",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ruby",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Guinevere",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "lunox",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lunox/counter"
+    },
+    {
+      "name": "Luo Yi",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Novaria",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Joy",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "luo-yi",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/luo-yi/counter"
+    },
+    {
+      "name": "Lylia",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Joy",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chou",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Freya",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "lylia",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/lylia/counter"
+    },
+    {
+      "name": "Marcel",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Angela",
+          "advantage_pct": 4.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 4.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        }
+      ],
+      "synergies": [],
+      "slug": "marcel",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/marcel/counter"
+    },
+    {
+      "name": "Martis",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 4.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lesley",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "martis",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/martis/counter"
+    },
+    {
+      "name": "Masha",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Estes",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Freya",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bruno",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Rafaela",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "masha",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/masha/counter"
+    },
+    {
+      "name": "Mathilda",
+      "roles": [
+        "Support",
+        "Assassin"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 4.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Odette",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "mathilda",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/mathilda/counter"
+    },
+    {
+      "name": "Melissa",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Belerick",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Harley",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yi Sun-shin",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Terizla",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "melissa",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/melissa/counter"
+    },
+    {
+      "name": "Minotaur",
+      "roles": [
+        "Tank",
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Beatrix",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Ixia",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "minotaur",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/minotaur/counter"
+    },
+    {
+      "name": "Minsitthar",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Yin",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aulus",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "minsitthar",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/minsitthar/counter"
+    },
+    {
+      "name": "Miya",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Belerick",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gatotkaca",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Thamuz",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lylia",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "miya",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/miya/counter"
+    },
+    {
+      "name": "Moskov",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hanabi",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aamon",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "moskov",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/moskov/counter"
+    },
+    {
+      "name": "Nana",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hylos",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Atlas",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Akai",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 0.7,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "nana",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/nana/counter"
+    },
+    {
+      "name": "Natalia",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 5.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 4.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alucard",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Paquito",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "natalia",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/natalia/counter"
+    },
+    {
+      "name": "Natan",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Nolan",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "natan",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/natan/counter"
+    },
+    {
+      "name": "Nolan",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 3.7,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Saber",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hayabusa",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Jawhead",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "nolan",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/nolan/counter"
+    },
+    {
+      "name": "Novaria",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Ling",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hilda",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zilong",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "novaria",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/novaria/counter"
+    },
+    {
+      "name": "Obsidia",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Baxia",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Belerick",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Zhuxin",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "obsidia",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/obsidia/counter"
+    },
+    {
+      "name": "Odette",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Vale",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Nana",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alpha",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "odette",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/odette/counter"
+    },
+    {
+      "name": "Paquito",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Fredrinn",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Melissa",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "paquito",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/paquito/counter"
+    },
+    {
+      "name": "Pharsa",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Masha",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hirara",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        },
+        {
+          "hero": "Zetian",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "pharsa",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/pharsa/counter"
+    },
+    {
+      "name": "Phoveus",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 4.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 4.1,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alpha",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Barats",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Bane",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "phoveus",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/phoveus/counter"
+    },
+    {
+      "name": "Popol and Kupa",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "jungle",
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Hanabi",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Melissa",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Atlas",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Carmilla",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "aliases": [
+        "Popol and K...",
+        "Popol"
+      ],
+      "slug": "popol-and-kupa",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/popol-and-kupa/counter"
+    },
+    {
+      "name": "Rafaela",
+      "roles": [
+        "Support"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Ixia",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Odette",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Layla",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Silvanna",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Vale",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "rafaela",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/rafaela/counter"
+    },
+    {
+      "name": "Roger",
+      "roles": [
+        "Fighter",
+        "Marksman"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Yve",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Leomord",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "roger",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/roger/counter"
+    },
+    {
+      "name": "Ruby",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gord",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "ruby",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/ruby/counter"
+    },
+    {
+      "name": "Saber",
+      "roles": [
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle",
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Leomord",
+          "advantage_pct": 3.6,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Balmond",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Baxia",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Miya",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "saber",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/saber/counter"
+    },
+    {
+      "name": "Selena",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Popol and Kupa",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gloo",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Johnson",
+          "advantage_pct": 0.9,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "selena",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/selena/counter"
+    },
+    {
+      "name": "Silvanna",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Barats",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Edith",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 2.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "silvanna",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/silvanna/counter"
+    },
+    {
+      "name": "Sora",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khufra",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Melissa",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Martis",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "sora",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/sora/counter"
+    },
+    {
+      "name": "Sun",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Natan",
+          "advantage_pct": 4.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Joy",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alucard",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "sun",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/sun/counter"
+    },
+    {
+      "name": "Suyou",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Harith",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Silvanna",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Harley",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Gusion",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        },
+        {
+          "hero": "Joy",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "suyou",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ],
+      "best_counters_listed": [],
+      "counter_source": "https://www.mlbb.io/en/hero/suyou/counter"
+    },
+    {
+      "name": "Terizla",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 4.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 2.4,
+          "strength": "strong"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alpha",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Yve",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "terizla",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Yve",
+          "win_rate_pct": 51.9,
+          "trend": null
+        },
+        {
+          "hero": "Valir",
+          "win_rate_pct": 53.8,
+          "trend": null
+        },
+        {
+          "hero": "Angela",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Xavier",
+          "win_rate_pct": 53.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Thamuz",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp",
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Cici",
+          "advantage_pct": 4.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Valir",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karrie",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hirara",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "thamuz",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Cici",
+          "win_rate_pct": 49.1,
+          "trend": null
+        },
+        {
+          "hero": "Valir",
+          "win_rate_pct": 53.8,
+          "trend": null
+        },
+        {
+          "hero": "Wanwan",
+          "win_rate_pct": 47.5,
+          "trend": null
+        },
+        {
+          "hero": "Benedetta",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Karrie",
+          "win_rate_pct": 49.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Tigreal",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "roam"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Zetian",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Aulus",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "tigreal",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": null
+        },
+        {
+          "hero": "X.Borg",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Zetian",
+          "win_rate_pct": 50.7,
+          "trend": null
+        },
+        {
+          "hero": "Valir",
+          "win_rate_pct": 53.8,
+          "trend": null
+        },
+        {
+          "hero": "Aulus",
+          "win_rate_pct": 52.8,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Uranus",
+      "roles": [
+        "Tank"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Dyrroth",
+          "advantage_pct": 3.5,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Aldous",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karrie",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Kimmy",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "uranus",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Dyrroth",
+          "win_rate_pct": 49.3,
+          "trend": null
+        },
+        {
+          "hero": "Aldous",
+          "win_rate_pct": 53.8,
+          "trend": null
+        },
+        {
+          "hero": "Karrie",
+          "win_rate_pct": 49.0,
+          "trend": null
+        },
+        {
+          "hero": "Angela",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Vale",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Gloo",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khaleed",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Hylos",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        },
+        {
+          "hero": "Grock",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "vale",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ]
+    },
+    {
+      "name": "Valentina",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Minsitthar",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Johnson",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Belerick",
+          "advantage_pct": 1.2,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "valentina",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Phoveus",
+          "win_rate_pct": 48.4,
+          "trend": null
+        },
+        {
+          "hero": "Marcel",
+          "win_rate_pct": 57.2,
+          "trend": null
+        },
+        {
+          "hero": "Chip",
+          "win_rate_pct": 47.8,
+          "trend": null
+        },
+        {
+          "hero": "Saber",
+          "win_rate_pct": 51.5,
+          "trend": null
+        },
+        {
+          "hero": "Minsitthar",
+          "win_rate_pct": 52.6,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Valir",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Rafaela",
+          "advantage_pct": 3.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Kaja",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Diggie",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "valir",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Kaja",
+          "win_rate_pct": 49.6,
+          "trend": null
+        },
+        {
+          "hero": "Rafaela",
+          "win_rate_pct": 53.8,
+          "trend": null
+        },
+        {
+          "hero": "Helcurt",
+          "win_rate_pct": 48.0,
+          "trend": null
+        },
+        {
+          "hero": "Mathilda",
+          "win_rate_pct": 44.3,
+          "trend": null
+        },
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Vexana",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Marcel",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "X.Borg",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Natalia",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "vexana",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ]
+    },
+    {
+      "name": "Wanwan",
+      "roles": [
+        "Marksman"
+      ],
+      "lanes": [
+        "gold"
+      ],
+      "counters": [
+        {
+          "hero": "Phoveus",
+          "advantage_pct": 6.4,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Cyclops",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Faramis",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lunox",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 2.2,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "wanwan",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ]
+    },
+    {
+      "name": "X.Borg",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Zilong",
+          "advantage_pct": 4.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Benedetta",
+          "advantage_pct": 3.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Mathilda",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "xborg",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ]
+    },
+    {
+      "name": "Xavier",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Natalia",
+          "advantage_pct": 4.0,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 3.9,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Angela",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Aamon",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "xavier",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Natalia",
+          "win_rate_pct": 51.1,
+          "trend": null
+        },
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.4,
+          "trend": null
+        },
+        {
+          "hero": "Helcurt",
+          "win_rate_pct": 47.9,
+          "trend": null
+        },
+        {
+          "hero": "Aldous",
+          "win_rate_pct": 53.1,
+          "trend": null
+        },
+        {
+          "hero": "Zilong",
+          "win_rate_pct": 46.4,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Yi Sun-shin",
+      "roles": [
+        "Assassin",
+        "Marksman"
+      ],
+      "lanes": [
+        "jungle"
+      ],
+      "counters": [
+        {
+          "hero": "Uranus",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lolita",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Karina",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Johnson",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Sun",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "yi-sun-shin",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Uranus",
+          "win_rate_pct": 49.5,
+          "trend": null
+        },
+        {
+          "hero": "Lolita",
+          "win_rate_pct": 53.5,
+          "trend": null
+        },
+        {
+          "hero": "Karina",
+          "win_rate_pct": 49.4,
+          "trend": null
+        },
+        {
+          "hero": "Yve",
+          "win_rate_pct": 51.9,
+          "trend": null
+        },
+        {
+          "hero": "Xavier",
+          "win_rate_pct": 53.0,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Yin",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lanes": [
+        "jungle",
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 5.3,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Esmeralda",
+          "advantage_pct": 3.8,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Uranus",
+          "advantage_pct": 2.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Khaleed",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hirara",
+          "advantage_pct": 1.6,
+          "strength": "strong"
+        }
+      ],
+      "synergies": [],
+      "slug": "yin",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Wanwan",
+          "win_rate_pct": 48.2,
+          "trend": null
+        },
+        {
+          "hero": "Esmeralda",
+          "win_rate_pct": 47.1,
+          "trend": null
+        },
+        {
+          "hero": "Hilda",
+          "win_rate_pct": 51.1,
+          "trend": null
+        },
+        {
+          "hero": "Uranus",
+          "win_rate_pct": 49.5,
+          "trend": null
+        },
+        {
+          "hero": "Gloo",
+          "win_rate_pct": 54.7,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Yu Zhong",
+      "roles": [
+        "Fighter"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Masha",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Wanwan",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Lunox",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Claude",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Cici",
+          "advantage_pct": 1.0,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "yu-zhong",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Wanwan",
+          "win_rate_pct": 47.5,
+          "trend": null
+        },
+        {
+          "hero": "Lunox",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Masha",
+          "win_rate_pct": 58.5,
+          "trend": null
+        },
+        {
+          "hero": "Diggie",
+          "win_rate_pct": 54.8,
+          "trend": null
+        },
+        {
+          "hero": "Harith",
+          "win_rate_pct": 47.7,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Yve",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Fanny",
+          "advantage_pct": 2.6,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hayabusa",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Helcurt",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Freya",
+          "advantage_pct": 1.5,
+          "strength": "slight"
+        },
+        {
+          "hero": "Nolan",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "yve",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Fanny",
+          "win_rate_pct": 42.9,
+          "trend": null
+        },
+        {
+          "hero": "Joy",
+          "win_rate_pct": 48.7,
+          "trend": null
+        },
+        {
+          "hero": "Gusion",
+          "win_rate_pct": 48.7,
+          "trend": null
+        },
+        {
+          "hero": "Ixia",
+          "win_rate_pct": 50.3,
+          "trend": null
+        },
+        {
+          "hero": "Saber",
+          "win_rate_pct": 51.5,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Zetian",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Gloo",
+          "advantage_pct": 2.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Valentina",
+          "advantage_pct": 1.9,
+          "strength": "strong"
+        },
+        {
+          "hero": "Floryn",
+          "advantage_pct": 1.7,
+          "strength": "strong"
+        },
+        {
+          "hero": "Harith",
+          "advantage_pct": 0.8,
+          "strength": "slight"
+        },
+        {
+          "hero": "Uranus",
+          "advantage_pct": 0.7,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "zetian",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Valentina",
+          "win_rate_pct": 44.3,
+          "trend": null
+        },
+        {
+          "hero": "Gloo",
+          "win_rate_pct": 51.4,
+          "trend": null
+        },
+        {
+          "hero": "Harith",
+          "win_rate_pct": 47.7,
+          "trend": null
+        },
+        {
+          "hero": "Floryn",
+          "win_rate_pct": 54.0,
+          "trend": null
+        },
+        {
+          "hero": "Diggie",
+          "win_rate_pct": 54.8,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Zhask",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Natan",
+          "advantage_pct": 3.2,
+          "strength": "decisive"
+        },
+        {
+          "hero": "Alice",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Belerick",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Estes",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Vexana",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "zhask",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Natan",
+          "win_rate_pct": 51.3,
+          "trend": null
+        },
+        {
+          "hero": "Belerick",
+          "win_rate_pct": 52.0,
+          "trend": null
+        },
+        {
+          "hero": "Alice",
+          "win_rate_pct": 50.2,
+          "trend": null
+        },
+        {
+          "hero": "Estes",
+          "win_rate_pct": 52.8,
+          "trend": null
+        },
+        {
+          "hero": "Uranus",
+          "win_rate_pct": 49.5,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    },
+    {
+      "name": "Zhuxin",
+      "roles": [
+        "Mage"
+      ],
+      "lanes": [
+        "mid"
+      ],
+      "counters": [
+        {
+          "hero": "Diggie",
+          "advantage_pct": 2.3,
+          "strength": "strong"
+        },
+        {
+          "hero": "Hayabusa",
+          "advantage_pct": 2.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Arlott",
+          "advantage_pct": 1.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Nolan",
+          "advantage_pct": 1.3,
+          "strength": "slight"
+        },
+        {
+          "hero": "Melissa",
+          "advantage_pct": 1.1,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "zhuxin",
+      "counter_data": "fetched",
+      "counter_data_sections": [
+        "counters"
+      ]
+    },
+    {
+      "name": "Zilong",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lanes": [
+        "exp"
+      ],
+      "counters": [
+        {
+          "hero": "Karina",
+          "advantage_pct": 3.1,
+          "strength": "strong"
+        },
+        {
+          "hero": "Chip",
+          "advantage_pct": 3.0,
+          "strength": "strong"
+        },
+        {
+          "hero": "Eudora",
+          "advantage_pct": 2.8,
+          "strength": "strong"
+        },
+        {
+          "hero": "Tigreal",
+          "advantage_pct": 2.5,
+          "strength": "strong"
+        },
+        {
+          "hero": "Jawhead",
+          "advantage_pct": 1.4,
+          "strength": "slight"
+        }
+      ],
+      "synergies": [],
+      "slug": "zilong",
+      "counter_data": "fetched",
+      "best_counters_listed": [
+        {
+          "hero": "Karina",
+          "win_rate_pct": 49.4,
+          "trend": null
+        },
+        {
+          "hero": "Tigreal",
+          "win_rate_pct": 45.5,
+          "trend": null
+        },
+        {
+          "hero": "Atlas",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Johnson",
+          "win_rate_pct": 50.0,
+          "trend": null
+        },
+        {
+          "hero": "Gatotkaca",
+          "win_rate_pct": 45.5,
+          "trend": null
+        }
+      ],
+      "counter_data_sections": [
+        "counters",
+        "best_counters_listed"
+      ]
+    }
+  ],
+  "counter_source": "mlbb.io/en/hero/<slug>/counter, checked 2026-11-23; remaining hero counter lists added; best-counter win rates added only where visible",
+  "counter_progress": {
+    "fetched": [
+      "Aamon",
+      "Akai",
+      "Aldous",
+      "Alice",
+      "Alpha",
+      "Alucard",
+      "Angela",
+      "Argus",
+      "Arlott",
+      "Atlas",
+      "Aulus",
+      "Aurora",
+      "Badang",
+      "Balmond",
+      "Bane",
+      "Barats",
+      "Baxia",
+      "Beatrix",
+      "Belerick",
+      "Benedetta",
+      "Brody",
+      "Bruno",
+      "Carmilla",
+      "Cecilion",
+      "Chang'e",
+      "Chip",
+      "Chou",
+      "Cici",
+      "Claude",
+      "Clint",
+      "Cyclops",
+      "Diggie",
+      "Dyrroth",
+      "Edith",
+      "Esmeralda",
+      "Estes",
+      "Eudora",
+      "Fanny",
+      "Faramis",
+      "Floryn",
+      "Franco",
+      "Fredrinn",
+      "Freya",
+      "Gatotkaca",
+      "Gloo",
+      "Gord",
+      "Granger",
+      "Grock",
+      "Guinevere",
+      "Gusion",
+      "Hanabi",
+      "Hanzo",
+      "Harith",
+      "Harley",
+      "Hayabusa",
+      "Helcurt",
+      "Hilda",
+      "Hirara",
+      "Hylos",
+      "Irithel",
+      "Ixia",
+      "Jawhead",
+      "Johnson",
+      "Joy",
+      "Julian",
+      "Kadita",
+      "Kagura",
+      "Kaja",
+      "Kalea",
+      "Karina",
+      "Karrie",
+      "Khaleed",
+      "Khufra",
+      "Kimmy",
+      "Lancelot",
+      "Lapu-Lapu",
+      "Layla",
+      "Leomord",
+      "Lesley",
+      "Ling",
+      "Lolita",
+      "Lukas",
+      "Lunox",
+      "Luo Yi",
+      "Lylia",
+      "Marcel",
+      "Martis",
+      "Masha",
+      "Mathilda",
+      "Melissa",
+      "Minotaur",
+      "Minsitthar",
+      "Miya",
+      "Moskov",
+      "Nana",
+      "Natalia",
+      "Natan",
+      "Nolan",
+      "Novaria",
+      "Obsidia",
+      "Odette",
+      "Paquito",
+      "Pharsa",
+      "Phoveus",
+      "Popol and Kupa",
+      "Rafaela",
+      "Roger",
+      "Ruby",
+      "Saber",
+      "Selena",
+      "Silvanna",
+      "Sora",
+      "Sun",
+      "Suyou",
+      "Terizla",
+      "Thamuz",
+      "Tigreal",
+      "Uranus",
+      "Vale",
+      "Valentina",
+      "Valir",
+      "Vexana",
+      "Wanwan",
+      "X.Borg",
+      "Xavier",
+      "Yi Sun-shin",
+      "Yin",
+      "Yu Zhong",
+      "Yve",
+      "Zetian",
+      "Zhask",
+      "Zhuxin",
+      "Zilong"
+    ],
+    "pending": []
+  }
+}

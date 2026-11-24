@@ -1,0 +1,3 @@
+Put hero reference images here, one or more per hero:  <slug>.png, <slug>_2.png, <slug>_3.png ...
+Slug = the "slug" field in heroes_complete.json (e.g. aamon.png, popol-and-kupa.png).
+Crop them like the in-game tiles (face only, square). Draft-screen crops work best.
