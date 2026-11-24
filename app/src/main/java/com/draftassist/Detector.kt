@@ -31,25 +31,27 @@ class Detector(private val ctx: Context, private val engine: DraftEngine) {
     // ---- hero reference signatures: assets/heroes/<slug>.png, <slug>_2.png, ... ----
     private val refs: List<Pair<String, FloatArray>> by lazy { loadRefs() }
 
-    data class Result(val state: DraftState, val userRow: Int, val inDraft: Boolean)
+    data class Result(val state: DraftState, val userRow: Int, val inDraft: Boolean, val debug: String)
 
     fun process(bmp: Bitmap): Result? {
         val w = bmp.width; val h = bmp.height
         val text = Tasks.await(ocr.process(InputImage.fromBitmap(bmp, 0)))
 
         var inDraft = false
-        var lane: String? = null
+        val lanes = HashSet<String>()
+        var lines = 0
         val avail = LinkedHashSet<String>()
         for (b in text.textBlocks) for (line in b.lines) {
-            val t = line.text
+            val t = line.text; lines++
             val box: Rect = line.boundingBox ?: continue
             val cx = box.centerX() / w.toFloat(); val cy = box.centerY() / h.toFloat()
             if (t.contains("Team Pick", true) || t.contains("Ban Phase", true)) inDraft = true
-            if (cy in 0.10f..0.22f && cx in 0.2f..0.5f) laneFrom(t)?.let { lane = it }
+            if (cy in 0.10f..0.22f && cx in 0.2f..0.8f) lanes += lanesIn(t)
             if (cx in 0.24f..0.80f && cy in 0.25f..0.85f) engine.resolve(t)?.let { avail += it.name }
         }
         if (!inDraft && avail.size < 3) return null
 
+        val autoLane = if (lanes.size == 1) lanes.first() else null
         val userRow = findUserRow(bmp)
         val allies = ArrayList<String>(); val enemies = ArrayList<String>(); val bans = HashSet<String>()
         for (i in 0 until 5) {
@@ -58,15 +60,18 @@ class Detector(private val ctx: Context, private val engine: DraftEngine) {
             matchBan(bmp, allyBanX[i])?.let { bans += it }
             matchBan(bmp, enemyBanX[i])?.let { bans += it }
         }
-        return Result(DraftState(lane, allies, enemies, bans, if (avail.size >= 3) avail else null), userRow, true)
+        return Result(DraftState(autoLane, allies, enemies, bans, if (avail.size >= 3) avail else null), userRow, true,
+            "text:$lines grid:${avail.size} ally:${allies.size} enemy:${enemies.size} bans:${bans.size} refs:${refs.size}")
     }
 
-    private fun laneFrom(t: String): String? {
-        val s = t.lowercase()
-        return when {
-            "gold" in s -> "gold"; "exp" in s -> "exp"; "mid lane" in s -> "mid"
-            "jungle" in s -> "jungle"; "roam" in s -> "roam"; else -> null
-        }
+    private fun lanesIn(t: String): Set<String> {
+        val s = t.lowercase(); val r = HashSet<String>()
+        if ("gold" in s) r += "gold"
+        if ("exp" in s) r += "exp"
+        if ("mid" in s) r += "mid"
+        if ("jungl" in s) r += "jungle"
+        if ("roam" in s) r += "roam"
+        return r
     }
 
     /** The user's name is drawn in gold. Count gold-ish pixels in each ally name strip. */
